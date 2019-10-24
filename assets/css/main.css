@@ -153,7 +153,6 @@ th {
 .bdr-4 {
     border-radius: 4px;
 }
-
 .ptb-150 {
     padding: 150px 0;
 }
@@ -186,7 +185,9 @@ th {
     color: #fff;
     border: none!important;
 }
-
+.header{
+    padding: 100px 0 10px;
+}
 .main-header .link-btn {
     background: var(--secondary-color);
     border: 3px solid var(--secondary-color);
