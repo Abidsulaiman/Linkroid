@@ -153,6 +153,12 @@ th {
 .bdr-4 {
     border-radius: 4px;
 }
+.pt-100{
+    padding-top: 100px;
+}
+.pb-200{
+    padding-bottom: 200px;
+}
 .ptb-150 {
     padding: 150px 0;
 }
