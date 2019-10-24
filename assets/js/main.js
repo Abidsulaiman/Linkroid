@@ -28,7 +28,7 @@
             });
 
             $(".navbar-toggler").click(function () {
-                $(".linknav").toggleClass("navOpen");
+                $(". ").toggleClass("navOpen");
             });
 
             $(".pricing-toggle").click(function () {
