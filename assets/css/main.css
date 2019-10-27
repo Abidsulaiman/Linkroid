@@ -248,9 +248,9 @@ th {
 
 .card {
     border: none;
-    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.10);
-    border-radius: 20px;
+    border-radius: 10px;
     overflow: hidden;
+    box-shadow: 0 0 30px black;
 }
 
 .feature_section.card {
@@ -258,7 +258,6 @@ th {
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.10);
     border-radius: 20px;
     overflow: hidden;
-    min-height: 633px;
 }
 
 .card-header {
