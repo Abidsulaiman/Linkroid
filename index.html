@@ -16,6 +16,7 @@
     <!-- Place favicon.ico in the root directory -->
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/fonts/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/cookiealert.css">
     <link rel="stylesheet" href="assets/css/main.css">
     <meta name="google-site-verification" content="ch9GwbaRqdXKsVGYWC-NUsc2AlvovnckocufjVpizs8" />
     <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js" nonce="5BF42B006A618248A5FDA04FF3D77FFA" charset="UTF-8"></script></head>
@@ -606,9 +607,22 @@
 </footer>
 <!-- footer-end -->
 
+
+<div class="alert alert-dismissible text-center cookiealert" role="alert">
+    <div class="cookiealert-container">
+        <b>Do you like cookies?</b> &#x1F36A; We use cookies to ensure you get the best experience on our website. <a href="privacy.html" target="_blank">Learn more</a>
+
+        <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
+            I agree
+        </button>
+    </div>
+</div>
+
 <script src="assets/js/jquery-3.2.1.min.js"></script>
 <script src="assets/bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
+<script src="assets/js/cookiealert-standalone.js"></script>
 </body>
 
 </html>
