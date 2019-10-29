@@ -26,4 +26,12 @@
 .cookiealert .acceptcookies {
     margin-left: 10px;
     vertical-align: baseline;
+    background: var(--secondary-color);
+    border-color: var(--secondary-color);
+    -webkit-box-shadow: 10px 10px 14px 1px rgba(00, 00, 00, 0.2);
+    box-shadow: 10px 10px 14px 1px rgba(00, 00, 00, 0.2);
+    transition: all ease-in-out .5s;
+    font-size: 14px;
+    padding: 5px 2rem;
+    box-shadow: none;
 }

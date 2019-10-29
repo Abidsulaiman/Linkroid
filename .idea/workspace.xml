@@ -3,29 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="474323b2-bf85-4818-8356-3fdf9d46d1da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/affiliates.html" beforeDir="false" afterPath="$PROJECT_DIR$/affiliates.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta.html" beforeDir="false" afterPath="$PROJECT_DIR$/beta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare.html" beforeDir="false" afterPath="$PROJECT_DIR$/compare.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features.html" beforeDir="false" afterPath="$PROJECT_DIR$/features.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forgotpswd.html" beforeDir="false" afterPath="$PROJECT_DIR$/forgotpswd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/cookiealert.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/cookiealert.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkinbio.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkinbio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkroidvsbitly.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkroidvsbitly.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkroidvsjoturl.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkroidvsjoturl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkroidvspixel.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkroidvspixel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkroidvsreplug.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkroidvsreplug.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkroidvsrocketlink.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkroidvsrocketlink.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/partners.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resellers.html" beforeDir="false" afterPath="$PROJECT_DIR$/resellers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resetpswd.html" beforeDir="false" afterPath="$PROJECT_DIR$/resetpswd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urlshortner.html" beforeDir="false" afterPath="$PROJECT_DIR$/urlshortner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whitelabel.html" beforeDir="false" afterPath="$PROJECT_DIR$/whitelabel.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +17,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SEMoYHt3r9gi9XctSPq6uZkfMN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -72,7 +55,7 @@
       <updated>1571124482987</updated>
       <workItem from="1571124494315" duration="537000" />
       <workItem from="1572340315560" duration="23000" />
-      <workItem from="1572340379114" duration="6818000" />
+      <workItem from="1572340379114" duration="7563000" />
     </task>
     <task id="LOCAL-00001" summary="modified">
       <created>1572340467554</created>
@@ -137,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572348942768</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="modified">
+      <created>1572349378268</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572349378268</updated>
+    </task>
+    <task id="LOCAL-00011" summary="modified">
+      <created>1572349421302</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1572349421302</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +154,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="modified" />
     <option name="LAST_COMMIT_MESSAGE" value="modified" />
   </component>
