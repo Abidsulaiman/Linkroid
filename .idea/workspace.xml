@@ -3,15 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="474323b2-bf85-4818-8356-3fdf9d46d1da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features.html" beforeDir="false" afterPath="$PROJECT_DIR$/features.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkinbio.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkinbio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkroidvsbitly.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkroidvsbitly.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkroidvsjoturl.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkroidvsjoturl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkroidvspixel.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkroidvspixel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkroidvsreplug.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkroidvsreplug.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkroidvsrocketlink.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkroidvsrocketlink.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/partners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlshortner.html" beforeDir="false" afterPath="$PROJECT_DIR$/urlshortner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whitelabel.html" beforeDir="false" afterPath="$PROJECT_DIR$/whitelabel.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +51,7 @@
       <updated>1571124482987</updated>
       <workItem from="1571124494315" duration="537000" />
       <workItem from="1572340315560" duration="23000" />
-      <workItem from="1572340379114" duration="2335000" />
+      <workItem from="1572340379114" duration="2741000" />
     </task>
     <task id="LOCAL-00001" summary="modified">
       <created>1572340467554</created>
@@ -87,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572343263788</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="modified">
+      <created>1572343508811</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572343508811</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
