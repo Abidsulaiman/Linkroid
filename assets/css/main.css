@@ -19,7 +19,6 @@ body {
     font-size: 16px;
     overflow-x: hidden;
     color: #6d7494;
-    letter-spacing: .02em;
 }
 
 a {
@@ -408,7 +407,7 @@ th {
 
 .main-header {
     min-height: 100vh;
-    background: #0c0e13 url(../img/globe_vector.png) right bottom no-repeat;
+    background: #0c0e13 url(../img/wave_bg.png) left bottom no-repeat;
     background-size: contain;
 }
 
@@ -817,9 +816,8 @@ footer p {
 @media (min-width:1024px), (max-width: 1199px) {
     .main-header {
         min-height: 100vh;
-        background: #0c0e13 url(../img/globe_vector.png) right bottom no-repeat;
-        background-size: contain;
-        overflow: hidden;
+        background: #0c0e13 url(../img/wave_bg.png) left 98% no-repeat;
+        background-size: cover;
     }
 }
 
@@ -1197,9 +1195,9 @@ meter[value="4"] {
 @media (min-width:1200px) {
     .dash_img img {
         position: absolute;
-        right: -230px;
-        top: -70px;
-        width: 150%;
+        right: 0;
+        top: -60px;
+        width: 100%;
     }
 }
 
