@@ -69,8 +69,6 @@ th {
 .btn-primary {
     background: var(--secondary-color);
     border-color: var(--secondary-color);
-    -webkit-box-shadow: 10px 10px 14px 1px rgba(00, 00, 00, 0.2);
-    box-shadow: 10px 10px 14px 1px rgba(00, 00, 00, 0.2);
     transition: all ease-in-out .5s;
     font-size: 14px;
 }
@@ -326,8 +324,8 @@ th {
 }
 
 .trail_btn {
-    background: #F35229;
-    border-color: #F35229;
+    background: var(--secondary-color);
+    border-color: var(--secondary-color);
 }
 
 .navbar-nav .nav-item {
@@ -1010,86 +1008,6 @@ footer p {
     border: none;
 }
 
-meter {
-    /* Reset the default appearance */
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    margin: 0 auto 1em;
-    width: 100%;
-    height: 0.5em;
-    border-radius: 4px;
-    /* Applicable only to Firefox */
-    background: none;
-    background-color: rgba(0, 0, 0, 0.1);
-}
-
-meter::-webkit-meter-bar {
-    background: none;
-    background-color: rgba(0, 0, 0, 0.1);
-}
-
-/* Webkit based browsers */
-
-meter[value="1"]::-webkit-meter-optimum-value {
-    background: red!important;
-}
-
-meter[value="2"]::-webkit-meter-optimum-value {
-    background: yellow!important;
-}
-
-meter[value="3"]::-webkit-meter-optimum-value {
-    background: orange!important;
-}
-
-meter[value="4"]::-webkit-meter-optimum-value {
-    background: green!important;
-}
-
-/* Gecko based browsers */
-
-meter[value="1"]::-moz-meter-bar {
-    background: red!important;
-}
-
-meter[value="2"]::-moz-meter-bar {
-    background: yellow!important;
-}
-
-meter[value="3"]::-moz-meter-bar {
-    background: orange!important;
-}
-
-meter[value="4"]::-moz-meter-bar {
-    background: green!important;
-}
-
-/* Webkit based browsers */
-
-meter[value="1"] {
-    background: rgb(233, 7, 75)!important;
-}
-
-meter[value="2"] {
-    background: rgb(255, 115, 0)!important;
-}
-
-meter[value="3"] {
-    background: rgb(255, 238, 0)!important;
-}
-
-meter[value="4"] {
-    background: rgb(1, 168, 76)!important;
-}
-
-.login_img {
-    background: /* top, transparent red */
-    linear-gradient( rgba(100, 61, 209, 0.8), rgba(42, 6, 100, 0.8)), /* bottom, image */
-    url(https://i.pinimg.com/originals/96/43/3f/96433f8b4fbcad2d0acb0f6327627e9d.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 /* home login-form */
 
@@ -1142,6 +1060,20 @@ meter[value="4"] {
 #featureDropdown ul li:first-child {
     margin-bottom: 1rem;
 }
+
+
+#SingleFeatures .owl-carousel .card{
+    box-shadow: none;
+    transition: all ease .5s;
+}
+
+#SingleFeatures .owl-carousel .card:hover{
+    box-shadow: 0 0 10px 0px #00000014;
+}
+
+
+
+
 
 /* animation */
 
