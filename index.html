@@ -27,6 +27,10 @@
 
 <body>
 
+<div class="loader" id="preloader">
+    <div id="status" class="shapeshifter play mx-auto" style="background-image: url(assets/img/loader.svg)"></div>
+</div>
+
 <nav class="navbar navbar-expand-lg navbar-light fixed-top">
     <div class="container">
         <a class="navbar-brand" href="index.html">
@@ -539,7 +543,6 @@
 <div class="alert alert-dismissible text-center cookiealert" role="alert">
     <div class="cookiealert-container">
         <b>Do you like cookies?</b> &#x1F36A; We use cookies to ensure you get the best experience on our website. <a href="privacy.html" target="_blank">Learn more</a>
-
         <button type="button" class="btn btn-primary btn-sm shadow-none acceptcookies" aria-label="Close">
             I agree
         </button>
@@ -551,20 +554,29 @@
 <script src="assets/js/main.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
 <script src="assets/js/cookiealert-standalone.js"></script>
-<script></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+<script>
+    $(window).on('load', function() { // makes sure the whole site is loaded
+        $('#status').fadeOut(); // will first fade out the loading animation
+        $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+        $('body').delay(350).css({'overflow':'visible'});
+    })
+</script>
+
 <script>
     $(document).ready(function () {
         $(".owl-carousel").owlCarousel({
-            items:5,
-            loop:true,
-            autoplay:true,
-            animateOut:true,
-            autoplayTimeout:2000,
-            autoplayHoverPause:true
+            items: 5,
+            loop: true,
+            autoplay: true,
+            animateOut: true,
+            autoplayTimeout: 2000,
+            autoplayHoverPause: true
         });
     });
 </script>
-</body>
 
+
+</body>
 </html>
