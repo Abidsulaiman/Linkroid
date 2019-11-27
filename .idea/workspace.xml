@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="474323b2-bf85-4818-8356-3fdf9d46d1da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/team/abid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/alex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/arjun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/dinon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/jithin.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features.html" beforeDir="false" afterPath="$PROJECT_DIR$/features.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +81,9 @@
       <workItem from="1573298711624" duration="2883000" />
       <workItem from="1573366272902" duration="11534000" />
       <workItem from="1574178627649" duration="740000" />
-      <workItem from="1574404558329" duration="846000" />
+      <workItem from="1574404558329" duration="1112000" />
+      <workItem from="1574779817569" duration="3737000" />
+      <workItem from="1574833466102" duration="180000" />
     </task>
     <task id="LOCAL-00001" summary="modified">
       <created>1572340467554</created>
@@ -226,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573382990930</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="modified">
+      <created>1574405573068</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1574405573068</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
